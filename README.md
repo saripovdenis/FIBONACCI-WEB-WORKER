@@ -7,4 +7,4 @@
 
 ## Где деплой?
 
-- fibonacci-web-worker.vercel.app
+- [fibonacci-web-worker.vercel.app](https://fibonacci-web-worker.vercel.app/)
